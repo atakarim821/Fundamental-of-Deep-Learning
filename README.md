@@ -19,10 +19,7 @@ In this project, we:
 - **Flickr8k** dataset: 8,000 images with five captions each.
 - Preprocessed with tokenization and padding for LSTM input.
 
-## 🏆 Results
-- Achieved **BLEU-4 score of ~0.24** on the Flickr8k test set.
-- Demonstrated better performance compared to standard mean-pooled feature approaches.
-
+  
 ## ⚙️ Requirements
 - Python 3.x
 - TensorFlow / Keras
