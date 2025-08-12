@@ -20,21 +20,10 @@ In this project, we:
 - Preprocessed with tokenization and padding for LSTM input.
 
 ## 🏆 Results
-- Achieved **BLEU-4 score of ~0.32** on the Flickr8k test set.
+- Achieved **BLEU-4 score of ~0.24** on the Flickr8k test set.
 - Demonstrated better performance compared to standard mean-pooled feature approaches.
 
 ## ⚙️ Requirements
 - Python 3.x
 - TensorFlow / Keras
 - NumPy, Pandas
-- Git LFS (for large files)
-
-## 📂 Project Structure
-FoDL/
-│── caption/ # Scripts and utilities
-│── flickr8k/ # Dataset files
-│── image_features.pkl # Precomputed image features
-│── model_lstm.h5 # Trained model
-│── caption.ipynb # Main notebook
-│── README.md
-
