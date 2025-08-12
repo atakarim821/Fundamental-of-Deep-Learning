@@ -30,3 +30,11 @@ In this project, we:
 - Git LFS (for large files)
 
 ## 📂 Project Structure
+FoDL/
+│── caption/ # Scripts and utilities
+│── flickr8k/ # Dataset files
+│── image_features.pkl # Precomputed image features
+│── model_lstm.h5 # Trained model
+│── caption.ipynb # Main notebook
+│── README.md
+
